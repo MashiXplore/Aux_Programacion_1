@@ -11,3 +11,6 @@ En esta clase se ve las matrices y metodos de ordenamiento
 
 ![alt text](image-1.png)
 ---
+
+## introducion a la programacion orientada a objetos en la clase 07/06/2025
+![alt text](image-2.png)
